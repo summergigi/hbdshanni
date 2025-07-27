@@ -1,5 +1,5 @@
 html,body {
-	background: #1ba11a url(./HBD Shanni_files/tile.jpeg) top left repeat;
+	background: #1ba11a url(tile.jpeg) top left repeat;
 	font-family: Comic Sans,Comic Sans MS,cursive;
 	margin: 0;
 	padding: 0;
@@ -83,10 +83,10 @@ img {
 	margin-left: 18px;
 }
 div.ribbons {
-	background: url(./HBD Shanni_files/bow_left.jpeg) no-repeat 155px 70px;
+	background: url(bow_left.jpeg) no-repeat 155px 70px;
 }
 div.ribbons p {
-	background: url(./HBD Shanni_files/bow_right.jpeg) no-repeat 655px 70px;
+	background: url(bow_right.jpeg) no-repeat 655px 70px;
 	padding: 22px;
 }
 .white {
